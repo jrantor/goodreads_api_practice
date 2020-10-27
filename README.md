@@ -1,6 +1,6 @@
 ### This was fun to work with the Goodreads API.
 
-*This class does not use cahing responses.*
+*This class does not use caching responses.*
 
 ### Available Methods
 
