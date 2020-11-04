@@ -12,15 +12,11 @@
 ***Usage***
 
 ```
-// initializing the api
   $api = new Goodreads(YOUR_API_KEY);
 
-// getting response in an array(key,value)
   $api_response = $api->get_books_by_author(AUTHOR_ID);
 
-// print with print_r
-
- print_r($api_response);
+  print_r($api_response);
 
 ```
 
